@@ -3,12 +3,14 @@
 - 🔭 I’m a final year undergraduate pursuing B.E. in Artificial Intelligence.
 - 👯 I’m looking for Software Developer Internship roles
 - 🤔 I’m looking for help with ☝️
-- 🌱 Interested in Deep Learning
+- 🌱 Interested in Deep Learning 
 
 Contact me:
 <br>
 [![](https://img.shields.io/badge/-Aryan%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-6ba1a419a/)](https://www.linkedin.com/in/danilobbezerra/)
 [![](https://img.shields.io/badge/-@Aryan-%23181717?style=flat-square&logo=github)](https://github.com/11-aryan)
+[![](https://img.shields.io/badge/Gmail-1111aryantiwari%40gmail.com-Red)](mailto:1111aryantiwari@gmail.com)
+
 
 
 
