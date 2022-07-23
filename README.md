@@ -9,7 +9,7 @@ Python, C, C++, MySQL, Tensorflow, Flask, Numpy, Pandas, Scikit-Learn, Matplotli
 
 Contact me:
 <br>
-[![](https://img.shields.io/badge/-Aryan%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-6ba1a419a/)](https://www.linkedin.com/in/danilobbezerra/)
+[![](https://img.shields.io/badge/-Aryan%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-6ba1a419a/)](https://www.linkedin.com/in/aryan-6ba1a419/)
 [![](https://img.shields.io/badge/-@Aryan-%23181717?style=flat-square&logo=github)](https://github.com/11-aryan)
 [![](https://img.shields.io/badge/Gmail-1111aryantiwari%40gmail.com-Red)](mailto:1111aryantiwari@gmail.com)
 
