@@ -2,7 +2,6 @@
 
 - 🔭 I’m a final year undergraduate pursuing B.E. in Artificial Intelligence.
 - 👯 I’m looking for Software Developer Internship roles
-- 🤔 I’m looking for help with ☝️
 - 🌱 Interested in Deep Learning 
 - 🎓Familiar with: 
 Python, C, C++, MySQL, Tensorflow, Flask, Numpy, Pandas, Scikit-Learn, Matplotlib, Linux, Windows.
