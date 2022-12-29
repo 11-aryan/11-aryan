@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Aryan </h1>
 
 - 🔭 I’m a final year undergraduate pursuing B.E. in Artificial Intelligence.
-- 👯 I’m looking for Software Developer Internship roles
+- 👯 I’m looking for Software Developer Internship/Full-time roles
 - 🎓Familiar with: 
 Python, C, C++, MySQL, Tensorflow, Flask, Numpy, Pandas, Scikit-Learn, Matplotlib, Linux, Windows.
 
