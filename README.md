@@ -2,7 +2,6 @@
 
 - 🔭 I’m a final year undergraduate pursuing B.E. in Artificial Intelligence.
 - 👯 I’m looking for Software Developer Internship roles
-- 🌱 Interested in Deep Learning 
 - 🎓Familiar with: 
 Python, C, C++, MySQL, Tensorflow, Flask, Numpy, Pandas, Scikit-Learn, Matplotlib, Linux, Windows.
 
@@ -16,16 +15,30 @@ Contact me:
 
 
 ### Languages and Tools:
-
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-<br />
+<a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python&theme=light" />
+</a>
+<a href="https://www.cprogramming.com">
+    <img src="https://skillicons.dev/icons?i=c" />
+</a>
+<a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+</a>
+<a href="https://www.w3.org/html/">
+    <img src="https://skillicons.dev/icons?i=html" />
+</a>
+<a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=css" />
+</a>
+<a href="https://www.w3schools.com/cpp/">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+<a href="https://www.linux.org">
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" />
+</a>
+<a href="https://visualstudio.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" />
+</a>
 
 
 
