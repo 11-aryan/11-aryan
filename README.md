@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Aryan</h1>
 
-<p align="center">Final year undergraduate pursuing B.E. in Artificial Intelligence</p>
+<p align="center"> Software Engineer | Go | Angular | MongoDB
 
 <p align="center">
     <a href="https://www.linkedin.com/in/aryan-6ba1a419a/"><img src="https://img.shields.io/badge/-Aryan%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-6ba1a419a/" alt="LinkedIn"></a>
