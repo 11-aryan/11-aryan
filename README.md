@@ -19,7 +19,7 @@
 ---
 
 ### 🔧 Skills
-**Languages**: Python, C, C++, Go
+**Languages**: Go, Python, C, C++
 
 **Web Development**: Angular, HTML, CSS, JavaScript, TypeScript
 
