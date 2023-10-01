@@ -14,10 +14,6 @@
 
 ⭐️ I'm a Software Engineer, currently working with Golang, Angular and MongoDB. 
 
-
-⭐️ Looking for challenging Software Engineering full-time roles where I can apply my skills and contribute to impactful projects. 
-
-
 ⭐️ Check out my GitHub repositories to see more of my projects and contributions. 
 
 ---
