@@ -3,7 +3,7 @@
 <p align="center"> Software Engineer | Go | Angular | MongoDB
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/aryan-6ba1a419a/"><img src="https://img.shields.io/badge/-Aryan%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-6ba1a419/" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/aryan-6ba1a41a/"><img src="https://img.shields.io/badge/-Aryan%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-6ba1a419/" alt="LinkedIn"></a>
     <a href="https://github.com/11-aryan"><img src="https://img.shields.io/badge/-@Aryan-%23181717?style=flat-square&logo=github" alt="GitHub"></a>
     <a href="mailto:1111aryantiwari@gmail.com"><img src="https://img.shields.io/badge/Gmail-1111aryantiwari%40gmail.com-Red" alt="Gmail"></a>
 </p>
